@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cypress": "^11.2.0"
+  },
+  "name": "cypressint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
